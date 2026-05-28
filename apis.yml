@@ -1,0 +1,32 @@
+aid: micro-user-service
+name: Micro User Service
+description: "User management and authentication"
+url: https://m3o.com/user
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Authentication & Authorization"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Authentication And Authorization
+  - Public APIs
+apis:
+  - name: Micro User Service
+    description: "User management and authentication"
+    humanURL: https://m3o.com/user
+    baseURL: https://m3o.com/user
+    tags:
+      - Authentication And Authorization
+    properties:
+      - type: Documentation
+        url: https://m3o.com/user
+common:
+  - type: Website
+    url: https://m3o.com/user
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
