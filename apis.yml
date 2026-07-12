@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://m3o.com/user
 common:
+  - type: DomainSecurity
+    url: security/micro-user-service-domain-security.yml
   - type: Website
     url: https://m3o.com/user
   - type: PublicAPIsListing
